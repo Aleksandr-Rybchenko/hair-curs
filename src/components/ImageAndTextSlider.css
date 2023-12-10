@@ -2,7 +2,7 @@
   position: relative;
   width: 100%;
   margin-top: 32px;
-  padding-bottom: 56px;
+  padding-bottom: 86px;
 }
 
 .new-slide {
@@ -75,6 +75,10 @@
   .text-slyder-overlay {
     margin-top: 12px;
     font-size: 18px;
+  }
+  .new-slide-text {
+    max-height: 455px;
+    max-width: 100%;
   }
 }
 .text-container {
